@@ -1,0 +1,35 @@
+# ─── Python ───────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# ─── Credenciais e segredos ───────────────────────────────────
+*.env
+secrets.yaml
+credentials.json
+*.token
+
+# ─── Logs ─────────────────────────────────────────────────────
+*.log
+logs/
+
+# ─── Sistema ──────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ─── VSCode ───────────────────────────────────────────────────
+.vscode/settings.json
+.vscode/launch.json
+
+# ─── Arduino / compilação ─────────────────────────────────────
+build/
+*.elf
+*.bin
+*.hex
+
+# ─── Backups locais ───────────────────────────────────────────
+*-backup/
+ecomonitor-backups/
