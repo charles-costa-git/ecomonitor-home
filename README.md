@@ -15,7 +15,7 @@ O projeto integra hardware embarcado (ESP32) com uma stack de software profissio
 ## 🎯 Objetivos
 
 - Monitorar em tempo real o consumo de energia elétrica (tensão, corrente, potência, kWh)
-- Monitorar em tempo real o consumo de água (vazão, volume acumulado, nível da caixa d'água)
+- Monitorar em tempo real o consumo de água (vazão, volume acumulado)
 - Calcular e projetar custos mensais de energia e água
 - Detectar anomalias como possíveis vazamentos ou consumo fora do padrão
 - Enviar alertas via Telegram
