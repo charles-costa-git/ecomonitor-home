@@ -54,7 +54,6 @@ O projeto integra hardware embarcado (ESP32) com uma stack de software profissio
 | ESP32 DevKit v1 (x2) | Microcontrolador principal |
 | PZEM-004T v3.0 | Medição de energia elétrica |
 | YF-S201 | Sensor de fluxo de água |
-| JSN-SR04T | Sensor ultrassônico de nível (caixa d'água) |
 | Fonte 5V/2A (x2) | Alimentação dos ESP32 |
 
 ---
